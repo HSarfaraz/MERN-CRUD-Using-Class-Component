@@ -18,11 +18,17 @@ On the backend, cd backend, you can run:
 
 ### `nodemon server.js`
 
-In Database, we created 
+In Database, we created with the name crudpositronix and collection name as students
+
+![database](https://github.com/HSarfaraz/MERN-CRUD-Using-Class-Component/blob/master/database.png)
+
+### `mongod`
+
+For the Database, open the command prompt and run mongod, and open the atlas composs IDE 
 
 ### `Reference:`
 
-See the section about [Reference]https:https://www.positronx.io/react-mern-stack-crud-app-tutorial/ for more information.
+I learnt from [Source]https:https://www.positronx.io/react-mern-stack-crud-app-tutorial/ for more information.
 
 
 ![Studentlist](https://github.com/HSarfaraz/MERN-CRUD-Using-Class-Component/blob/master/studentlist.png)
