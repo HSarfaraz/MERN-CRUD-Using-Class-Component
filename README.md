@@ -34,8 +34,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-![Studentlist](https://github.com/HSarfaraz/MERN-CRUD-Using-Class-Component/studentlist.png)
+![Studentlist](https://github.com/HSarfaraz/MERN-CRUD-Using-Class-Component/blob/master/studentlist.png)
 
-![CreateStudent](https://github.com/HSarfaraz/MERN-CRUD-Using-Class-Component/createstudent.png)
+![CreateStudent](https://github.com/HSarfaraz/MERN-CRUD-Using-Class-Component/blob/master/createstudent.png)
 
-![EditStudent](https://github.com/HSarfaraz/MERN-CRUD-Using-Class-Component/editstudent.png)
+![EditStudent](https://github.com/HSarfaraz/MERN-CRUD-Using-Class-Component/blob/master/editstudent.png)
